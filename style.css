@@ -23,10 +23,10 @@ h1:before{
     top: 0;
     left: 0;
     content: 'Loading...';
-    color: #00ffff;
+    color: #3fff00;
     position: absolute;
     overflow: hidden;
-    border-bottom: 10px solid #00ffff;
+    border-bottom: 10px solid #3fff00;
     animation: loading 8s infinite linear;
 }
 @keyframes loading {
